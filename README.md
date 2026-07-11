@@ -1,12 +1,14 @@
 # Cardiovascular Disease Prediction
 
 ## Project Overview
-This project predicts cardiovascular disease using Machine Learning algorithms.
+This project predicts the possibility of cardiovascular disease using Machine Learning algorithms based on patient health-related data.
 
 ## Dataset
+**Dataset Used:**
 - cardio_train.csv
 
 ## Machine Learning Algorithms Used
+
 - Logistic Regression
 - Decision Tree
 - Random Forest
@@ -24,11 +26,13 @@ This project predicts cardiovascular disease using Machine Learning algorithms.
 | SVM | 73.50% |
 
 ## Best Model
-Support Vector Machine (SVM)
+
+**Support Vector Machine (SVM)**
 
 Accuracy: **73.50%**
 
 ## Technologies Used
+
 - Python
 - Google Colab
 - Pandas
